@@ -24,8 +24,8 @@ class MainActivity : ComponentActivity() {
 
         // Cargar datos al iniciar
         weatherViewModel.loadWeather(
-            lat = 20.27,
-            lon = -97.96,
+            lat =  20.173888888889,
+            lon = -98.055,
             apiKey = "9a4399df47258a47755bf81eb107491f"
         )
 
